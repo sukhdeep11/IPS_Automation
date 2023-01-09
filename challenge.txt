@@ -1,0 +1,3 @@
+1. One possible solution could be creating an object where we  can store text and its correspond numeric value
+2. Then we can find its correspond numeric value based on what user entered in text od google form
+3. Lastly we can store and use this value for calculation or google docs.
